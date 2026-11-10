@@ -1,3 +1,10 @@
+👥 Authors
+Shuddha Sourav Prachi
+
+Pratima Dey Emu
+
+BRAC University - Department of Computer Science and Engineering
+
 # 🧠 Parkinson's Disease Detection Using Machine Learning
 
 A machine learning-based system for early detection of Parkinson's disease 
@@ -76,10 +83,3 @@ Implement SHAP for model interpretability
 
 📄 License
 This project is for educational and research purposes.
-
-👥 Authors
-Shuddha Sourav Prachi
-
-Pratima Dey Emu
-
-BRAC University - Department of Computer Science and Engineering
