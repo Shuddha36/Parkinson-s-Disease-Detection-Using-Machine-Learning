@@ -62,6 +62,7 @@ reliable diagnoses.
 └── data/
 └── parkinsons.csv
 
+
 Future Improvements
 Test on larger, more diverse datasets
 
@@ -73,3 +74,12 @@ Deploy as a web application for clinical use
 
 Implement SHAP for model interpretability
 
+📄 License
+This project is for educational and research purposes.
+
+👥 Authors
+Shuddha Sourav Prachi
+
+Pratima Dey Emu
+
+BRAC University - Department of Computer Science and Engineering
